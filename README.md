@@ -38,4 +38,4 @@ To Visit the Website, Simply [Click Here](https://cathinea.f5.si), or you can us
 ```
 ## Website Screenshots
 
-![Website Screenshot](https://cathinea.f5.si/images/cathinea.f5.si)
+![Website Screenshot](https://cathinea.f5.si/images/cathinea.github.io-cathinea.f5.si.jpg)
